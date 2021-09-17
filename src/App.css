@@ -1,0 +1,35 @@
+body {
+  background-color: #66717E;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #383B53;
+  margin: 45px;
+  border: 4px groove silver;
+  border-radius: 11px;
+  padding: 25px;
+}
+h1 {
+  color: #32213A;
+  font-size: 65px;
+}
+ul {
+  list-style-type: none;
+}
+.fruit {
+  margin: 35px;
+  background-color: #cde9fc;
+  padding: 15px;
+  border-radius: 11px;
+  border: 4px groove silver;
+}
+
